@@ -29,6 +29,6 @@
 <h1>Redes sociais 📲</h1>
 <div> 
   <a href="https://instagram.com/camilocodes" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:camilo.gabrielrm@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:contato@camilo.codes?subject=Contato%20atrav%C3%A9s%20do%20link%20do%20GitHub&body=Ol%C3%A1%20Camilo%2C%20tudo%20bem%3F%20Encontrei%20seu%20perfil%20no%20GitHub%20e%20gostaria%20de%20conversar%20com%20voc%C3%AA.%0D%0AQuando%20puder%20entre%20em%20contato!"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/camilo-gabrielrm/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
