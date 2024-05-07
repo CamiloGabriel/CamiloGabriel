@@ -14,7 +14,7 @@
   <a href="https://github.com/camilogabriel">
   <img src="https://github-readme-stats.vercel.app/api?username=camilogabriel&show_icons=true&bg_color=00000000" height="145" alt="stats graph"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=camilogabriel&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&bg_color=00000000&hide_border=false" height="145" alt="languages graph"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=camilogabriel&theme=tokyonight-duo" height="145" alt="camilogabriel" />
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=camilogabriel&theme=tokyonight-duo" height="145" alt="camilogabriel" />
 </div>
 
 
