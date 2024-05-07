@@ -1,4 +1,4 @@
-<a href="https://github.com/wolwerr"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&fontColor=45664567"/></a>
+<a href="https://github.com/camilogabriel"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&fontColor=45664567"/></a>
 <div align="center">
    
 ### Olá!! Sou o Camilo Gabriel, é um prazer ter você aqui 😁
@@ -66,6 +66,11 @@
 </picture>
 
 
+##
 
+<div align="center">
+  <a href="https://github.com/camilogabriel/" target="_blank"><img src="https://profile-counter.glitch.me/camilogabriel/count.svg?"/>
+</div> 
 
-<a href="https://github.com/wolwerr"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&fontColor=45664567"/></a>
+##
+<a href="https://github.com/camilogabriel"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&fontColor=45664567"/></a>
