@@ -3,7 +3,7 @@
    
 ### Olá!! Sou o Camilo Gabriel, é um prazer ter você aqui 😁
 
-- 👨🏽‍💻 Hoje trabalho com PowerBI
+- 👨🏽‍💻 Engenheiro de dados
 - 📚 Graduando em Tecnologia da Informação
 - 📚 Pós-Graduando em Data Science e Banco de Dados
 </div>
@@ -28,7 +28,7 @@
 ##
 
  <p>
-  <a href="https://github.com/wolwerr"><img src="https://readme-typing-svg.herokuapp.com/?lines=Data%20Scientist%20and%20Developer%20BackEnd&font=Fira%5Code&center=true&width=440&height=45&color=bluevCenter=true&size=22"  ></a>
+  <a href="https://github.com/wolwerr"><img src="https://readme-typing-svg.herokuapp.com/?lines=Data%20Engineer&font=Fira%5Code&center=true&width=440&height=45&color=bluevCenter=true&size=22"  ></a>
 </p>
 
 ##
@@ -37,6 +37,7 @@
 <h1>Tecnologias 🤖</h1>
 <div style="display: inline_block"><br>
   <img align="center" alt="CG-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+   <img align="center" alt="CG-Airflow" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg">
   <img align="center" alt="CG-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="CG-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CG-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
